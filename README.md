@@ -16,3 +16,5 @@ And much more features
 The editor is **Editor.md**
 
 Aunque el editor esta un poco desactualizado
+
+Aprendido con los cursos de Platzi
